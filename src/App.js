@@ -20,8 +20,6 @@ class Home extends React.Component {
   }
 }
 
-// kommentti
-
 class App extends React.Component {
   constructor(props) {
     super(props)
